@@ -2,6 +2,8 @@
 
 This is a web application that predicts house prices in a given area based on various features such as the number of rooms, area size, amenities, and more. The application utilizes machine learning algorithms to provide accurate price predictions.
 
+Currently the dataset being used is the kaggle dataset of Bangalore House Prices at https://www.kaggle.com/datasets/aryanfelix/bangalore-housing-prices. 
+
 ## Features
 
 - Input area, number of rooms, bathrooms, and location to get a price prediction.
