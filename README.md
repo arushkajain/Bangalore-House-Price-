@@ -17,13 +17,16 @@ This is a web application that predicts house prices in a given area based on va
 - scikit-learn library
 - Other dependencies (specified in the requirements.txt file)
 
+<img width="960" alt="image" src="https://github.com/arushkajain/Bangalore-Housing-Price/assets/134403254/a7f69451-5497-4009-9365-422c6b510ebb">
+
 ### Installation
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/arushkajain/Bangalore-Housing-Price.git
+ ```bash
+ git clone https://github.com/arushkajain/Bangalore-Housing-Price.git
    ```
+
 
 2. Change to the project directory:
 
@@ -50,6 +53,8 @@ This is a web application that predicts house prices in a given area based on va
 ### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+### License
+This project is licensed under the MIT License.
 
 
 
